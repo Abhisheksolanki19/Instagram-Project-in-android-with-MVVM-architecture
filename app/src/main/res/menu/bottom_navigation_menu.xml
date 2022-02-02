@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="@string/menu_home"
+        app:showAsAction="always"
+        android:icon="@drawable/selector_home"
+        android:titleCondensed="@string/menu_home"
+        android:id="@+id/itemHome"/>
+
+    <item
+        android:title="@string/menu_add_photos"
+        app:showAsAction="always"
+        android:icon="@drawable/selector_add_photos"
+        android:titleCondensed="@string/menu_add_photos" android:id="@+id/itemAddPhotos"/>
+
+    <item
+        android:title="@string/menu_profile"
+        app:showAsAction="always"
+        android:icon="@drawable/selector_profile"
+        android:titleCondensed="@string/menu_profile"
+        android:id="@+id/itemProfile"/>
+
+</menu>

@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Instagram Project</string>
+
+    <string name="network_connection_error">Internet connection lost, please retry again</string>
+    <string name="network_default_error">Something wrong happened, please retry again</string>
+    <string name="network_internal_error">Our systems got an error, please retry again</string>
+    <string name="network_server_not_available">Our services are under maintenance, please retry after some time
+    </string>
+    <string name="server_connection_error">Not able to connect, please retry again</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="network_login_again">Please log in again</string>
+    <string name="or">OR</string>
+
+    <!--  login & signup  -->
+    <string name="email_field_hint">Enter your email</string>
+    <string name="name_field_hint">Enter your name</string>
+    <string name="password_field_hint">Enter your password</string>
+    <string name="choose_password_field_hint">Choose your password</string>
+    <string name="email_field_empty">Email can\'t be empty</string>
+    <string name="password_field_empty">Password can\'t be empty</string>
+    <string name="email_field_invalid">Not a valid email</string>
+    <string name="password_field_small_length">Password less than 6 digits</string>
+    <string name="login_button_text">Login</string>
+    <string name="signup_button_text">Sign up</string>
+    <string name="sign_up_with_email">Sign Up with Email</string>
+    <string name="login_with_email">Login with Email</string>
+    <string name="name_field_empty">Name can\'t be empty</string>
+    <string name="logging_in">Logging in&#8230;</string>
+    <string name="signing_up">Signing up&#8230;</string>
+
+    <!--  Logout  -->
+    <string name="logout_error">Can\'t logout. Try again</string>
+    <string name="logging_out">Logging Out&#8230;</string>
+
+    <!-- menu -->
+    <string name="menu_home">Home</string>
+    <string name="menu_add_photos">Add Photos</string>
+    <string name="menu_profile">Profile</string>
+
+    <!-- refreshPosts -->
+    <string name="post_like_label">%1d Likes</string>
+
+    <!--  profile  -->
+    <string name="logout_profile_text">Logout</string>
+    <string name="edit_profile_text">Edit Profile</string>
+    <string name="posts_label">Posts</string>
+    <string name="no_posts_yet">No posts yet</string>
+
+    <!--  edit profile  -->
+    <string name="change_photo">Change Photo</string>
+    <string name="name_hint">Name</string>
+    <string name="bio_label_hint">Bio</string>
+    <string name="private_info_label">Private Information</string>
+    <string name="email_hint">Email Address</string>
+    <string name="zero_text">0</string>
+
+    <!--  Liked By  -->
+    <string name="liked_by">Liked By</string>
+    <string name="no_likes_message">No likes yet</string>
+
+    <!--  photo  -->
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="try_again">Please try again</string>
+
+    <!--  Loading messages  -->
+    <string name="loading">Loading&#8230;</string>
+    <string name="uploading_image">Uploading Image&#8230;</string>
+    <string name="saving_profile">Saving Profile&#8230;</string>
+
+    <!--  App Information  -->
+    <string name="project_from">Project from</string>
+    <string name="mindorks_link"><a href="https://bootcamp.mindorks.com">MindOrks Professional Bootcamp</a></string>
+    <string name="self_practice">with self practice work</string>
+    <string name="additional_features">and added some additional features</string>
+    <string name="by">by</string>
+    <string name="me"><a href="https://github.com/pr656d">Prem Patel</a></string>
+    <string name="project_github_link"><a href="https://github.com/pr656d/Instagram-Project">View project on Github</a></string>
+</resources>
